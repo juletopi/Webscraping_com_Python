@@ -24,7 +24,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&duration=1&pause=99999&color=ffffff&center=true&vCenter=true&repeat=false&width=1400&height=80&lines=Repositório+back-end+sobre+'webscraping'+utillizando-se+da+linguagem+Python." alt="WebscrapingPythonSVG" title="Texto-subtítulo do repositório"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&duration=1&pause=99999&color=ffffff&center=true&vCenter=true&repeat=false&width=1400&height=80&lines=Repositório+back-end+sobre+'webscraping'+usando+Python." alt="WebscrapingPythonSVG" title="Texto-subtítulo do repositório"/>
   </a>
 </div>
 
