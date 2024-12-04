@@ -11,7 +11,7 @@
 <!-- PRESENTATION -->
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e459ca7b-7f36-43aa-b2a4-d43a233ca14e" alt="PythonTraining-pic" width="530px" title="Repositório de 'Treinamento Python'">
+  <img src="https://github.com/user-attachments/assets/e459ca7b-7f36-43aa-b2a4-d43a233ca14e" alt="PythonWebscraping-pic" width="530px" title="Repositório de Webscraping com Python">
 </div>
 <br>
 
@@ -159,7 +159,6 @@ if lat and lon:
 ## 🛠️ Tecnologias Utilizadas
 - **Python**
 - **Requests**
-- **BeautifulSoup (bs4)**
 
 <div align="left">
   <h6><a href="#sumário-"> Voltar para o início ↺</a></h6>
