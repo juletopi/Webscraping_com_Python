@@ -177,7 +177,7 @@ if lat and lon:
   <li>Ajudar a melhorar a documentação;</li>
   <li>Compartilhar o projeto com outras pessoas.</li>
 </ul>
-<p>Para saber mais sobre como contribuir, consulte o guia de contribuição <a href="https://github.com/juletopi/">CONTRIBUTING.md</a>.</p>
+<p>Para saber mais sobre como contribuir, consulte o guia de contribuição <a href="https://github.com/juletopi/Webscraping_com_Python/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>.</p>
 
 <div align="left">
   <h6><a href="#sumário-"> Voltar para o início ↺</a></h6>
