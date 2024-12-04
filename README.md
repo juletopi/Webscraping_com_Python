@@ -41,7 +41,8 @@
   <p align="center">
     <a href="#-implementando-o-webscraping">Implementando o Webscraping</a> &#xa0; | &#xa0;
     <a href="#️-tecnologias-utilizadas">Tecnologias Utilizadas</a> &#xa0; | &#xa0;
-    <a href="#-contribuições">Contribuições</a>  
+    <a href="#-contribuições">Contribuições</a> &#xa0; | &#xa0;
+    <a href="#-autor">Autor</a>
   </p>
 </div>
 <br>
