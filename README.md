@@ -15,19 +15,6 @@
 </div>
 <br>
 
-<div align="center">
-  <a href="#">
-    <img width=70% align="center" src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=4&section=header&%20render">
-  </a>
-</div>
-<br>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Kanit&size=40&duration=1&pause=99999&color=ffffff&center=true&vCenter=true&repeat=false&width=1400&height=80&lines=Repositório+back-end+sobre+'webscraping'+usando+Python." alt="WebscrapingPythonSVG" title="Texto-subtítulo do repositório"/>
-  </a>
-</div>
-
 <!-- SUMMARY -->
 
 <h2 align="center">Sumário 🧾</h2>
@@ -230,11 +217,5 @@ if lat and lon:
 ----
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Sue+Ellen+Francisco&size=40&duration=1&pause=99999&color=dddddd&center=true&vCenter=true&repeat=false&width=620&height=60&lines=Obrigado+por+visitar%2C+e+até+a+próxima!" alt="TypingGoodbye-SVG" title="Boas venturas e volte sempre que precisar! ;)"/>
-  </a>
-</div>
-
-<div align="center">
-  Feito com 🤍 por <a href="https://github.com/juletopi"> Juletopi</a>.
+  Feito com 🤍 e ☕ por <a href="https://github.com/juletopi"> Juletopi</a>.
 </div>
